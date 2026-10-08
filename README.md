@@ -4,21 +4,8 @@ A collection of beginner-friendly C++ programs focused on **iterative structures
 
 ## 📚 Sections
 
-### 1. Do-While — 2 Programs
-Programs **01** and **03** focus on:
-- `do-while` loops
-- Repeating a program until a condition is satisfied
-- Input validation
-- Menu-driven repetition
-- Attempt-based problem solving
-
-### 2. Nested Loops — 2 Programs
-Programs **02** and **04** focus on:
-- Nested iterative structures
-- Using one loop inside another loop
-- Combining different loop types
-- Repeating multiple levels of operations
-- Practical problems involving menus and repeated calculations
+### 1. Practice 01–05 — 4 Programs
+Programs **01** through **04** are currently included in this section.
 
 ## 📊 Total Programs
 
@@ -29,12 +16,10 @@ Programs **02** and **04** focus on:
 ```text
 CPP-Iterative-Structure/
 │
-├── Do-While/
+├── Practice-01-05/
 │   ├── Practice-01.cpp
-│   └── Practice-03.cpp
-│
-├── Nested-Loops/
 │   ├── Practice-02.cpp
+│   ├── Practice-03.cpp
 │   └── Practice-04.cpp
 │
 └── README.md
@@ -42,6 +27,6 @@ CPP-Iterative-Structure/
 
 ## 🎯 Goal
 
-This repository is designed to build a strong understanding of **iteration in C++** through small, practical programs. Each program demonstrates how loops can control repetition and solve problems efficiently.
+This repository is designed to build a strong understanding of **iteration in C++** through small, practical programs. Programs are organized in groups of five based on their global practice number.
 
-> All programs use one global sequence, starting with `Practice-01.cpp` and ending with `Practice-04.cpp`.
+> All programs use one global sequence, starting with `Practice-01.cpp`.
