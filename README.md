@@ -1,6 +1,6 @@
 # C++ Iterative Structure
 
-A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. These programs demonstrate repetition, input validation, menu-driven logic, and practical billing systems.
+A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. These programs demonstrate repetition, input validation, menu-driven logic, and practical billing and tournament systems.
 
 ## 📚 Programs
 
@@ -8,10 +8,11 @@ A collection of beginner-friendly C++ programs focused on **iterative structures
 2. **[ATMManagementSystem.cpp](Practice-01-05/ATMManagementSystem.cpp)** — A PIN-protected ATM menu for checking balance, depositing money, and withdrawing money.
 3. **[HotelRoomBooking.cpp](Practice-01-05/HotelRoomBooking.cpp)** — A hotel room booking and billing program with room options and a long-stay discount.
 4. **[ShoppingBillingSystem.cpp](Practice-01-05/ShoppingBillingSystem.cpp)** — A shopping bill calculator with quantity-based discounts and tax.
+5. **[GamingTournamentSystem.cpp](Practice-01-05/GamingTournamentSystem.cpp)** — A tournament player report system that calculates wins, losses, draws, total points, ranks, and prize money, and can process multiple players using a `do-while` loop.
 
 ## 📊 Total Programs
 
-**4 C++ programs**
+**5 C++ programs**
 
 ## 📁 Repository Structure
 
@@ -22,7 +23,8 @@ CPP-Iterative-Structure/
 │   ├── NumberGuessingGame.cpp
 │   ├── ATMManagementSystem.cpp
 │   ├── HotelRoomBooking.cpp
-│   └── ShoppingBillingSystem.cpp
+│   ├── ShoppingBillingSystem.cpp
+│   └── GamingTournamentSystem.cpp
 │
 └── README.md
 ```
