@@ -1,11 +1,13 @@
 # C++ Iterative Structure
 
-A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. The repository demonstrates how loops can be used to repeat instructions, validate input, build menu-driven programs, and solve practical programming problems.
+A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. These programs demonstrate repetition, input validation, menu-driven logic, and practical billing systems.
 
-## 📚 Sections
+## 📚 Programs
 
-### 1. Practice 01–05 — 4 Programs
-Programs **01** through **04** are currently included in this section.
+1. **[NumberGuessingGame.cpp](Practice-01-05/NumberGuessingGame.cpp)** — A number-guessing game that gives higher/lower hints and counts attempts.
+2. **[ATMManagementSystem.cpp](Practice-01-05/ATMManagementSystem.cpp)** — A PIN-protected ATM menu for checking balance, depositing money, and withdrawing money.
+3. **[HotelRoomBooking.cpp](Practice-01-05/HotelRoomBooking.cpp)** — A hotel room booking and billing program with room options and a long-stay discount.
+4. **[ShoppingBillingSystem.cpp](Practice-01-05/ShoppingBillingSystem.cpp)** — A shopping bill calculator with quantity-based discounts and tax.
 
 ## 📊 Total Programs
 
@@ -17,16 +19,14 @@ Programs **01** through **04** are currently included in this section.
 CPP-Iterative-Structure/
 │
 ├── Practice-01-05/
-│   ├── Practice-01.cpp
-│   ├── Practice-02.cpp
-│   ├── Practice-03.cpp
-│   └── Practice-04.cpp
+│   ├── NumberGuessingGame.cpp
+│   ├── ATMManagementSystem.cpp
+│   ├── HotelRoomBooking.cpp
+│   └── ShoppingBillingSystem.cpp
 │
 └── README.md
 ```
 
 ## 🎯 Goal
 
-This repository is designed to build a strong understanding of **iteration in C++** through small, practical programs. Programs are organized in groups of five based on their global practice number.
-
-> All programs use one global sequence, starting with `Practice-01.cpp`.
+This repository builds a practical understanding of **iteration in C++** through small programs using loops, including `do-while` and `while` structures.
