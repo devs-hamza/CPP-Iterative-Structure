@@ -1,6 +1,6 @@
 # C++ Iterative Structure
 
-A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. These programs demonstrate repetition, input validation, menu-driven logic, and practical billing and tournament systems.
+A collection of beginner-friendly C++ programs focused on **iterative structures and loops**. These programs demonstrate repetition, input validation, menu-driven logic, and practical management and billing systems.
 
 ## 📚 Programs
 
@@ -8,11 +8,13 @@ A collection of beginner-friendly C++ programs focused on **iterative structures
 2. **[ATMManagementSystem.cpp](ATMManagementSystem.cpp)** — A PIN-protected ATM menu for checking balance, depositing money, and withdrawing money.
 3. **[HotelRoomBooking.cpp](HotelRoomBooking.cpp)** — A hotel room booking and billing program with room options and a long-stay discount.
 4. **[ShoppingBillingSystem.cpp](ShoppingBillingSystem.cpp)** — A shopping bill calculator with quantity-based discounts and tax.
-5. **[GamingTournamentSystem.cpp](GamingTournamentSystem.cpp)** — A tournament player report system that calculates wins, losses, draws, total points, ranks, and prize money, and can process multiple players using a `do-while` loop.
+5. **[GamingTournamentSystem.cpp](GamingTournamentSystem.cpp)** — A tournament player report system that calculates wins, losses, draws, points, ranks, and prize money, and can process multiple players using a `do-while` loop.
+6. **[MenuBillingSystem.cpp](MenuBillingSystem.cpp)** — A menu-driven food ordering and billing program with quantity validation, subtotal, 10% tax, and a discount for orders over Rs. 2,500.
+7. **[ParkingLotManager .cpp](ParkingLotManager%20.cpp)** — A parking lot manager for car, bike, and bus entry/exit, capacity checks, parking status, and vehicle-entry totals.
 
 ## 📊 Total Programs
 
-**5 C++ programs**
+**7 C++ programs**
 
 ## 📁 Repository Structure
 
@@ -23,11 +25,13 @@ CPP-Iterative-Structure/
 ├── ATMManagementSystem.cpp
 ├── GamingTournamentSystem.cpp
 ├── HotelRoomBooking.cpp
+├── MenuBillingSystem.cpp
 ├── NumberGuessingGame.cpp
+├── ParkingLotManager .cpp
 ├── ShoppingBillingSystem.cpp
 └── README.md
 ```
 
 ## 🎯 Goal
 
-This repository builds a practical understanding of **iteration in C++** through small programs using loops, including `do-while` and `while` structures.
+This repository builds a practical understanding of **iteration in C++** through small programs using `do-while` and `while` loops, menu-driven workflows, and input validation.
